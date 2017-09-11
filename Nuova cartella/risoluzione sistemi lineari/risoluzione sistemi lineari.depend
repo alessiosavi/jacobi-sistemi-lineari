@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1335725320 source:q:\workspace\c#\teorema di jacobi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1336392460 source:q:\workspace\c#\metodo di jacobi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1336427598 source:q:\workspace\c#\risoluzione sistemi lineari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
